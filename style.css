@@ -1,0 +1,32 @@
+/* body {
+    /* background: coral; */
+    /* background: url(https://images.unsplash.com/photo-1534362125246-9ed660654f61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80) no-repeat; */
+    /* background-size: 100% auto; */
+    /* cursor: url('assets/right.png'), auto; */
+/* } */ 
+
+
+.container {
+    position: relative;
+    overflow:hidden;
+    border: 2px solid black;
+    width: 98%px;
+    height: 95vh;
+    background: url(https://images.unsplash.com/photo-1534362125246-9ed660654f61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80) no-repeat;
+    background-size: 100% 100%;
+    cursor: url('assets/right.png'), auto;
+    
+}
+.round {
+
+    position: absolute;
+    height: 80px;
+    width: 90px;
+
+}
+
+image {
+    position: absolute;
+    height: 60px;
+    width: 60px;
+}
